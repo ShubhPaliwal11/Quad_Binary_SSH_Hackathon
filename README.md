@@ -390,7 +390,6 @@ flowchart LR
 - 📍 **Live GPS location** shared via SMS link
 - 🔁 **Retry logic** if family members don't pick up
 - No typing. No navigation. No internet dependency for core SOS.
-
 ---
 
 ### 🩺 App 2 — AarogyaSaarthi Doctor App
@@ -461,16 +460,14 @@ sequenceDiagram
 </table>
 
 <div align="center">
+<br>
+<div style="display:flex; gap:10px;">
+  <img src="emergency-qr.jpeg" width="200">
+  <img src="aarogya-doctor.jpeg" width="200">
+  <img src="scanning.jpeg" width="200">
+  <img src="patientinfo.jpeg" width="200">
 
-### 🔄 The Emergency Ecosystem — Patient App ↔ Doctor App
-
-```
-[Patient hits emergency]  →  [Notification tap]  →  [QR displayed]
-         ↓                                                  ↓
-[SOS sent to family]        [Doctor scans QR]  →  [Full history loaded]
-         ↓                          ↓
-[Ambulance alerted]     [Hospital EMR updated]  →  [Immediate treatment]
-```
+</div>
 
 **Result: From emergency to informed treatment in under 60 seconds.**
 
@@ -1269,7 +1266,7 @@ We give YOUR answers.**
 ### Made with ❤️ by Team Quad Binary
 
 <p>
-<img src="https://img.shields.io/badge/Made_with-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Made_with-TypeScript-007ACC?style=for-the-bad&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Powered_by-React_+_Android-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Built_for-India-FF9933?style=for-the-badge&logo=india&logoColor=white" />
 </p>
