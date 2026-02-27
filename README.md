@@ -1153,7 +1153,7 @@ We give YOUR answers.**
 </td>
 
 <td align="center" width="25%">
-<img src="Shreyansh.jpg" width="150px;" style="border-radius: 50%; border: 3px solid #FF9800;" alt="Shreyansh Sharma"/><br />
+<img src="Shreyansh-new.jpg" width="150px;" style="border-radius: 50%; border: 3px solid #FF9800;" alt="Shreyansh Sharma"/><br />
 <sub><b>⚙️ Shreyansh Sharma</b></sub><br />
 <sub>🎓 AITR</sub><br />
 <br />
