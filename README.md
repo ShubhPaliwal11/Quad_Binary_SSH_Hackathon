@@ -742,7 +742,16 @@ graph TB
     style AND2 fill:#3ddc84,stroke:#333,stroke-width:2px
     style HR fill:#ff7043,stroke:#333,stroke-width:2px
 ```
+![homepage](homepage.jpeg)
+<div style="display:flex; gap:10px;">
+  <img src="fitness.jpeg" width="200">
+  <img src="exercise.jpeg" width="200">
+  <img src="sos-web.jpeg" width="200">
+  <img src="health-resume.jpeg" width="200">
+  <img src="doctor.jpeg" width="200">
+  
 
+</div>
 ---
 
 ## 🛠️ Technology Stack
