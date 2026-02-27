@@ -751,6 +751,9 @@ graph TB
   <img src="doctor.jpeg" width="200">
   <img src="janaushidhi.jpeg" width="200">
   <img src="govtscheme.jpeg" width="200">
+  <img src="chabot.jpeg" width="200">
+  <img src="analysis.jpeg" width="200">
+  <img src="vaccine.jpeg" width="200">
 
 
 </div>
